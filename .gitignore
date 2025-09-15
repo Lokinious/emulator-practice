@@ -1,0 +1,11 @@
+build/
+.vscode/
+CMakeSettings.json
+CMakeCache.txt
+CMakeFiles/
+compile_commands.json
+**/*.user
+**/*.log
+**/*.suo
+**/*.vcxproj*
+.DS_Store
